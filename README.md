@@ -1,2 +1,2 @@
-# GreenCoin
-ERC-20 token
+# vcn-token
+Smart contracts for the VCN token
